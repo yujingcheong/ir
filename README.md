@@ -1,4 +1,4 @@
-# ir
+# IR Project
 
 Install the **Extension**: In VS Code, go to the **Extensions** view (Ctrl+Shift+X) and search for **Live Share** (by Microsoft) and install it.
 
